@@ -4,6 +4,10 @@
 
 ## Patch Notes
 
+### Version 0.0.2.1
+------
+* Implemented Spawn Protection
+
 ### Version 0.0.2
 ------
 * Implemented Class Selection
