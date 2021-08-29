@@ -3,7 +3,7 @@
 # Patch Notes
 
 ## Version 0.0.3
-------
+
 #### Additions
 ------
 - Added Game mod and map name Displaying in game on a Board
