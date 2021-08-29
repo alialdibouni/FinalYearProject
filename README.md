@@ -27,11 +27,11 @@
 ------
 
 ## Version 0.0.2.1
-------
-* Implemented Spawn Protection
 
-## Version 0.0.2
+* Implemented Spawn Protection
 ------
+## Version 0.0.2
+
 * Implemented Class Selection
 * Character Visuals changed based on Class
 * Weapon Optimization and Expansion
@@ -43,8 +43,8 @@
 
 ------
 
-### Version 0.0.1
-------
+## Version 0.0.1
+
 * Basic Character Movement
 * Sprint and Weapon Implementation
 * Health and Damage Implementation
