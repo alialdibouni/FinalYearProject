@@ -2,6 +2,25 @@
 
 # Patch Notes
 
+## Version 0.0.4
+
+#### Additions
+------
+- Added random coin spawning (Might use for Potential Game Mode)
+- Added Sprint Direction to see the direction of player
+- Added Weapon Switching Sounds
+- Added Scope Functionality
+- Added Sniper Rifle to Recon Class
+- Added Character Station for changing Class in game
+
+#### Known Bugs
+-----
+- When in Menu (in game), player can shoot whilst in menu 								
+- Hitscan weapon and shoot spawned coin											
+- When player is Dead, Player can Scope in										
+- When player switches class while scoped in, the scope remains	
+
+------
 ## Version 0.0.3
 
 #### Additions
