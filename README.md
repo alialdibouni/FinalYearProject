@@ -2,6 +2,36 @@
 
 # Patch Notes
 
+## Version 0.0.5
+
+(NOTE: This Build only has MP_Map_001 packaged, any attempt to load up the other maps or modes will result in a crash!)
+
+#### Additions
+------
+- Added a Settings Menu
+- Balanced Weapons
+- Changed Walk Speed and Animation to Jog Animation and Speed
+- Changes to Class Selection (Can change class in menu as well as at Character Station)
+- Added Jog Animations
+- Added Shooting Animations
+- Fixed Aim Offset (For looking up)
+
+#### Fixed Bugs
+-----
+- If Player used Autofire weapon, while holding left click, when the ammo hits 0, the weapon keeps shooting
+- Player can fire while reloading
+- Player Camera and Gun clipping throuhg walls (First person)
+- When player switches class while scoped in at character station, the scope remains
+- When the player is dead, the player can scope in
+
+#### Known Bugs
+-----
+- When the gun hits 0, gun sound stops
+- Sometimes character station doesn't allow player to change class
+- If player is in Character Station and changes team, it changes team but doesn't kill or teleport to the corresponding player start. 						
+
+------
+
 ## Version 0.0.4
 
 #### Additions
