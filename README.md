@@ -2,6 +2,56 @@
 
 # Patch Notes
 
+### Version 0.0.6
+
+(NOTE: This Build only has MP_Map_001 packaged, any attempt to load up the other maps or modes will result in a crash!)
+
+------
+#### Additions
+------
+#### Weapon Changes
+- Assault Rifle Buffed
+- Explosion Radius Expanded
+- Pistol Properties Changed
+- Sniper Rifle Properties Changed
+- Grenade Launcher Explodes on Impact
+
+#### Gameplay Changes
+- Added Health Pack
+- Changes to Player's Tag. Visibility hidden after 2500 units + hides behind wall. 
+
+#### UI Changes
+- Added Killfeed
+- Added Hit Markers
+- Changes to "TEAM WIN" UI (Button enabled after 3 seconds)
+- Changes to Settings Menu (Invert Y Axis + Mouse Sensitivity)
+- Added Health UI for when player picks up Health Pack
+- Added Bloody Screen effect when getting hit by player
+- Damage Indicators
+- Indication that you killed a player
+
+#### Other Changes
+- Hold Right Click for ADS
+- Preview Weapon for each class when selecting a team and class
+- Damage Values when hitting Opponents
+- Added Credits to Main Menu
+
+#### Fixed Bugs
+-----
+- On start, when player picks up health pack, server shows it picked up but not for client. After respawn time, server calibrates pickup and works as normal
+- Damage value for AR, Pistol and Sniper Works. Grenade Launcher and RPG damage displayed as 0.
+
+#### Known Bugs
+-----
+- If Player is in Character Select and Changes Team, it changes team but doesn't kill them or switch them to the correct team (If Lobby Team)
+- When gun hits 0, gun sound stops as well as animation
+- Sometimes Character Station doesn't allow player to change classes (Might switch back to old system of switching classes)
+- When searching for games. People hosting in Europe, Other Region can't find game
+- Mouse settings don't work in Main Menu
+- if player gets double kill, kill medal overlays ontop of each other
+- Damage Indicator shows up after the second shot. Not the first. (Affects client not server).
+- When zoomed with Sniper, Damage value moves (since relative to screen).
+------
 ## Version 0.0.5
 
 (NOTE: This Build only has MP_Map_001 packaged, any attempt to load up the other maps or modes will result in a crash!)
