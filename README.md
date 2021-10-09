@@ -2,6 +2,35 @@
 
 # Patch Notes
 
+### Version 0.0.7
+------
+#### Additions
+------
+#### Weapon Changes
+- Updated Game Engine to Unreal Engine 4.17
+- FPS Cap changed from 62 to 200
+- Removed Character Stations
+- Added 3 New Maps
+  - Construction
+  - Bunker
+  - Kaboom City
+- Added New Game Mode
+  - Coin Hunters
+    - Map: CH_Map_001 (Construction Map)
+- Changes to Weapons
+  - AR Damaged changed to 20
+
+#### Known Bugs
+-----
+- When gun hits 0, gun sound stops as well as animation
+- When searching for games. People hosting in Europe, Other Region can't find game
+- Mouse settings don't work in Main Menu
+- if player gets double kill, kill medal overlays ontop of each other
+- Damage Indicator shows up after the second shot. Not the first. (Affects client not server).
+- When zoomed with Sniper, Damage value moves (since relative to screen).
+
+------
+
 ### Version 0.0.6
 
 (NOTE: This Build only has MP_Map_001 packaged, any attempt to load up the other maps or modes will result in a crash!)
