@@ -6,7 +6,6 @@
 ------
 #### Additions
 ------
-#### Weapon Changes
 - Updated Game Engine to Unreal Engine 4.17
 - FPS Cap changed from 62 to 200
 - Removed Character Stations
